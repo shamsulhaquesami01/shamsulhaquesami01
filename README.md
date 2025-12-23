@@ -1,7 +1,7 @@
 # Hi there! I'm Sami 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Md.%20Shamsul%20Haque%20Sami&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Md.%20Shamsul%20Haque%20Sami&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ### 💫 About Me
