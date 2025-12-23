@@ -11,7 +11,7 @@ HIIII 😭
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://tenor.com/czjCg4AT5Mi.gif" width="500">
+  <img src="https://media.tenor.com/HAU_nZjbw9gAAAAi/cat-dance.gif" width="500">
 </p>
 
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
