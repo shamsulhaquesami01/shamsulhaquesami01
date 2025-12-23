@@ -84,12 +84,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamsulhaquesami01&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamsulhaquesami01&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaquesami01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
 </p>
 
 <br>
