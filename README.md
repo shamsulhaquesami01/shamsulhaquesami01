@@ -1,4 +1,3 @@
-# LET THE PLAYERS PLAY
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -50,7 +49,6 @@
 
 
 <br>
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,mysql,git,vscode,github,py,html,css,linux&theme=dark" />
