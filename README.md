@@ -1,11 +1,31 @@
-![Banner](https://link-to-your-image.gif)
+# Hi there! I'm Sami 👋 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Hello%20Sami&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Md.%20Shamsul%20Haque%20Sami&fontSize=60&animation=fadeIn" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=CSE+Student+at+BUET;C%2B%2B+%2F+Java+Developer;Problem+Solver)](https://git.io/typing-svg)
+### 💫 About Me
+- 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
+- 💻 **Interests:** Software Development, Database Management, and Competitive Programming
+- 🛠️ **Current Focus:** Mastering Data Structures and Algorithms with **C++** and **Java**
 
-### Tech Stack
+### 🚀 Professional Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,mysql,git,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,mysql,git,vscode,github,py" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaquesami01&show_icons=true&theme=tokyonight&count_private=true" alt="Sami's Stats" />
+</p>
+
+### 🛠️ Featured Projects
+- 🕹️ **[102-Game-Project](https://github.com/shamsulhaquesami01/102-Game-Project):** A C++ based game developed during L1 T1.
+- 🛒 **[CHALDAAL](https://github.com/shamsulhaquesami01/CHALDAAL):** Product delivery app for Database Management course.
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Coding+the+Future;BUET+CSE+Batch+23;Continuous+Learner" />
 </p>
