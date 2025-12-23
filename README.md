@@ -13,7 +13,7 @@
 - 💻 **Interests:** Software Development and Competitive Programming
 - 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dance-cat-gXXFrjHFJIMoqKr8UT">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dance-cat-gXXFrjHFJIMoqKr8UT.gif">
 
 ## 🛠️ Tech Stack
 <p align="left">
