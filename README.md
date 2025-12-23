@@ -11,9 +11,8 @@ HIIII 😭
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+  <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="500">
 </p>
-
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
 - 💻 **Interests:** Software Development and Competitive Programming
 - 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
