@@ -10,13 +10,17 @@ HIIII 😭
 
 ## 🚀 About Me
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFleGdiMHR2ZDRpZzA4M2U3eG95NWRwb2JnNzF5N2N3eHF0YTNrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/91BCkba1STSmzb4UWK/giphy.webp" >
+<p >
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFleGdiMHR2ZDRpZzA4M2U3eG95NWRwb2JnNzF5N2N3eHF0YTNrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/91BCkba1STSmzb4UWK/giphy.webp"
+    align = "left"
+    />
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFyaW1hcHJ4c2QxbHo0NGM2bjYxem9tYXlscTVyNDNncHBnYXhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/200.webp"
+    align = "right"
+  />
 </p>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFyaW1hcHJ4c2QxbHo0NGM2bjYxem9tYXlscTVyNDNncHBnYXhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/200.webp" >
-</p>
+
 
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
 - 💻 **Interests:** Software Development and Competitive Programming
