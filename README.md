@@ -1,4 +1,4 @@
-# Hi there! I'm Sami 👋
+HIIII 😭
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
