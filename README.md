@@ -13,6 +13,7 @@ HIIII 😭
 <p align="center">
   <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="500">
 </p>
+
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
 - 💻 **Interests:** Software Development and Competitive Programming
 - 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
