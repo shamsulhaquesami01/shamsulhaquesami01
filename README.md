@@ -81,11 +81,17 @@
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamsulhaquesami01&theme=tokyonight&margin-w=15&margin-h=15&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamsulhaquesami01&theme=tokyonight" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamsulhaquesami01&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="48%" />
+</p>
+
 <br>
 
 ## 📌 Featured Projects
