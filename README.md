@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="40%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=dracula" width="40%" />
 </p>
 
 
