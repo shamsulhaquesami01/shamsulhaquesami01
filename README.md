@@ -16,7 +16,7 @@
 
 ## 📊 Git Activity & Performance
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsulhaquesami01&theme=radical&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsulhaquesami01&theme=monokai&area=true&hide_border=true" width="100%" />
 </p>
 
 ## 🛠️ Languages & Productivity
