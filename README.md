@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE+UP+ON+YOUR+DREAMS;AND+JOIN+GIT" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
@@ -40,8 +40,7 @@
 <br>
 
 <br>
-
-## 🐍 Contribution Snake
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shamsulhaquesami01/shamsulhaquesami01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -56,7 +55,7 @@
 
 <br>
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsulhaquesami01&theme=react-dark&hide_border=true&area=true" width="100%" />
@@ -64,7 +63,6 @@
 <br>
 
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaquesami01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -106,7 +104,7 @@ Product delivery app for Database Management course featuring SQL integration an
 
 <br>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/shamsulhaquesami01">
