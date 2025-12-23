@@ -12,7 +12,8 @@
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
 - 💻 **Interests:** Software Development and Competitive Programming
 - 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gXXFrjHFJIMoqKr8UT/giphy.gif">
+- 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 🛠️ Tech Stack
 <p align="left">
