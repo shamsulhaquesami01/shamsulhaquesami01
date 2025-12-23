@@ -11,7 +11,7 @@ HIIII 😭
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.tenor.com/zCTU9e8SmVMAAAAM/1000-yard-stare-cat-meme.gif" >
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFleGdiMHR2ZDRpZzA4M2U3eG95NWRwb2JnNzF5N2N3eHF0YTNrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/91BCkba1STSmzb4UWK/giphy.webp" >
 </p>
 
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
