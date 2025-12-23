@@ -15,7 +15,7 @@ HIIII 😭
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4xOXpvcjViaWtiMGk3dno3cXl0cDVpYnYzOTZiZ3NtY250eWUxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXXFrjHFJIMoqKr8UT/giphy.webp" >
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFyaW1hcHJ4c2QxbHo0NGM2bjYxem9tYXlscTVyNDNncHBnYXhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/200.webp" >
 </p>
 
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
