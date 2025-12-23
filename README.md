@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=dracula" width="40%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="45%" />
 </p>
 
 
@@ -110,10 +110,10 @@ Product delivery app for Database Management course featuring SQL integration an
   <a href="https://github.com/shamsulhaquesami01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shamsulhaquesami@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/shamsul-haque-sami-a50678308/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
