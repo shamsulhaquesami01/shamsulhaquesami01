@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE+UP+ON+YOUR+DREAMS;AND+JOIN+GIT;DIE+ALONE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE+UP+ON+YOUR+DREAMS;AND+JOIN+GIT" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -21,11 +21,11 @@
 
 <br>
 
-- 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
+ 🎓 **Student:** CSE@BUET (Level 2, Term 1)
 
-- 💻 **Interests:** Software Development and Competitive Programming  
+ 💻 **Interests:** Software Development , Competitive Programming, Academia  
 
-- 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
+🛠️ **Current Focus:** Data Structures and Algorithms ,Database Management **C++** and **Java**
 
 <br>
 
