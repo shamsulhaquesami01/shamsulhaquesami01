@@ -14,6 +14,10 @@ HIIII 😭
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFleGdiMHR2ZDRpZzA4M2U3eG95NWRwb2JnNzF5N2N3eHF0YTNrdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/91BCkba1STSmzb4UWK/giphy.webp" >
 </p>
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4xOXpvcjViaWtiMGk3dno3cXl0cDVpYnYzOTZiZ3NtY250eWUxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gXXFrjHFJIMoqKr8UT/giphy.webp" >
+</p>
+
 - 🎓 **Student:** Computer Science & Engineering at **BUET** (Level 1, Term 2)
 - 💻 **Interests:** Software Development and Competitive Programming
 - 🛠️ **Current Focus:** Data Structures and Algorithms with **C++** and **Java**
