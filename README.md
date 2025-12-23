@@ -28,9 +28,9 @@ HIIII 😭
 
 
 ## 🛠️ Tech Stack
-<p >
+
   <img src="https://skillicons.dev/icons?i=cpp,java,js,mysql,git,vscode,github,py,html,css,linux&theme=dark" />
-</p>
+
 
 ## 📊 GitHub Stats
 
