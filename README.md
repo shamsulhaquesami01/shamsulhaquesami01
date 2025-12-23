@@ -16,9 +16,18 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 Git Activity & Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaquesami01&show_icons=true&theme=tokyonight&count_private=true" alt="Sami's Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsulhaquesami01&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shamsulhaquesami01&theme=tokyonight&no-bg=true&margin-w=15" />
+</p>
+
+### 🛠️ Languages & Productivity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🛠️ Featured Projects
