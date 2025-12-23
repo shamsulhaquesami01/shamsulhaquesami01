@@ -1,7 +1,7 @@
 # Hi there! I'm Sami 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE UP ON YOUR DREAMS; AND JOIN GIT; DIE ALONE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE+UP+ON+YOUR+DREAMS; AND+JOIN+GIT; DIE+ALONE" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
