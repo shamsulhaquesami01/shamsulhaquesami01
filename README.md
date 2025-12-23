@@ -37,10 +37,6 @@
 </tr>
 </table>
 
-<br>
-
-<br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shamsulhaquesami01/shamsulhaquesami01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
