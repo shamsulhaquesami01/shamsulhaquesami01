@@ -7,11 +7,7 @@
 
 <table>
 <tr>
-<td width="33%">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxwNThqb3FtdWk3d3V1bWwzMnY3bXd0c3RxbnBzYXd4bmg0MDI2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LqW9dLVjQm3cs/200.webp" width="100%"/>
-
-</td>
 <td width="34%">
 
 <br>
@@ -25,11 +21,7 @@
 <br>
 
 </td>
-<td width="33%">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFyaW1hcHJ4c2QxbHo0NGM2bjYxem9tYXlscTVyNDNncHBnYXhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/200.webp" width="100%"/>
-
-</td>
 </tr>
 </table>
 
