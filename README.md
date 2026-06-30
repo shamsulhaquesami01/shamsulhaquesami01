@@ -12,11 +12,11 @@
 
 <br>
 
- 🎓 **Student:** CSE@BUET (Level 2, Term 1)
+ 🎓 **Student:** CSE@BUET (Level 2, Term 2)
 
- 💻 **Interests:** Software Development , Competitive Programming, Academia  
+ 💻 **Interests:** Software Development , Machine Learning, Deep Learning ,Academia  
 
-🛠️ **Current Focus:** Data Structures and Algorithms ,Database Management **C++** and **Java**
+🛠️ **Current Focus:** Computer Architecture ,AI-ML
 
 <br>
 
