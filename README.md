@@ -1,108 +1,72 @@
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00d2ff&center=true&vCenter=true&width=600&lines=GIVE+UP+ON+YOUR+DREAMS;AND+JOIN+GIT" alt="Typing SVG" />
-</p>
-
-## About Me
-
-<table>
-<tr>
-<td width="33%">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxwNThqb3FtdWk3d3V1bWwzMnY3bXd0c3RxbnBzYXd4bmg0MDI2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LqW9dLVjQm3cs/200.webp" width="100%"/>
-
-</td>
-<td width="34%">
+# 👋 Hi, I'm Md. Shamsul Haque Sami
+### Computer Science & Engineering Student at BUET
 
 <br>
 
- 🎓 **Student:** CSE@BUET (Level 2, Term 1)
+## 👤 About Me
 
- 💻 **Interests:** Software Development , Competitive Programming, Academia  
+🎓 **Education:** Undergraduate Student in Computer Science and Engineering at Bangladesh University of Engineering and Technology (Level 2, Term 1)  
+💻 **Interests:** Software Development, Competitive Programming, and Academia  
+🛠️ **Current Focus:** Deepening knowledge in Data Structures & Algorithms (DSA) and Database Management Systems using **C++** and **Java**
 
-🛠️ **Current Focus:** Data Structures and Algorithms ,Database Management **C++** and **Java**
+---
 
-<br>
+## 🚀 Tech Stack & Tools
 
-</td>
-<td width="33%">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFyaW1hcHJ4c2QxbHo0NGM2bjYxem9tYXlscTVyNDNncHBnYXhwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2zUn8hAwJwG4abiS0p/200.webp" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shamsulhaquesami01/shamsulhaquesami01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,py,mysql,git,linux,vscode,github,html,css&theme=dark" />
 </p>
 
+---
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,mysql,git,vscode,github,py,html,css,linux&theme=dark" />
-</p>
-
-<br>
-
-## Activity Graph
+## 📈 Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsulhaquesami01&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
+
 <br>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaquesami01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsulhaquesami01&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-
-
 <br>
 
-## 🛠️ Most Used Languages
+### 🛠️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaquesami01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamsulhaquesami01&theme=tokyonight" width="49%" />
 </p>
 
-
-<br>
+---
 
 ## 📌 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🕹️ [102-Game-Project](https://github.com/shamsulhaquesami01/102-Game-Project)
-A C++ based game developed during L1 T1 using object-oriented programming concepts and graphics libraries.
+A C++ based game developed during L1 T1 utilizing object-oriented programming (OOP) concepts and native graphics libraries.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 [CHALDAAL](https://github.com/shamsulhaquesami01/CHALDAAL)  
-Product delivery app for Database Management course featuring SQL integration and user authentication.
+A comprehensive product delivery application developed for a Database Management course, featuring robust SQL integration and secure user authentication.
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/shamsulhaquesami01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -115,12 +79,6 @@ Product delivery app for Database Management course featuring SQL integration an
 </p>
 
 <br>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Continuous+Learner;Keep+Coding+🚀;Building+The+Future" />
